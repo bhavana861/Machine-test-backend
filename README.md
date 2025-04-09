@@ -2,7 +2,7 @@
 
 This is a Back-end project built using Node.js, Express.js, MongoDB, and Mongoose.
 It handles:
-1. User registration/login with JWT(JWT for Authetication) (access and refresh tokens)
+1. User registration/login with JWT(JWT for Authetication) (access and refresh tokens).
 2. Product and brand management
 3. Blocking/unblocking system
 4. File uploads using Multer(Multer is a Node.js Middleware for handling multipart/Form-data and used for  uploading files)
