@@ -20,7 +20,7 @@ router.post('/refresh-token',userController.refreshTokenController)
 router.put('/update-userDetails/:id',authUser,multerMiddleware.single("profilephoto"),userController.updateProfileController)
 
 // url for delete user details
-router.put('/delete-userDetails/:id',authUser,userController.deleteProfileController)
+router.delete('/delete-userDetails/:id',authUser,userController.deleteProfileController)
 
 // url for add brands
 router.post('/add-brand',authUser,multerMiddleware.single("brandlogo"),brandController.addBrandsController)
