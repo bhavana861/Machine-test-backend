@@ -84,6 +84,43 @@ Login User
 ![Screenshot 2025-04-09 153623](https://github.com/user-attachments/assets/c2311b99-f324-456c-a960-285df037ddbf)
 Refresh Token
 ![Screenshot 2025-04-09 153714](https://github.com/user-attachments/assets/d7258c5d-e2d1-43a2-8863-ef8e1cd65dec)
+Update user details
+![Screenshot 2025-04-09 153742](https://github.com/user-attachments/assets/1b7ff5f6-e645-49e9-8380-fcd522b52aca)
+Delete user details
+![Screenshot 2025-04-09 162412](https://github.com/user-attachments/assets/dc65c854-ae98-4f00-8db5-59ff5f23e23c)
+Add Brand
+![Screenshot 2025-04-09 164758](https://github.com/user-attachments/assets/6865d0df-0983-4777-afa6-60191f4dc21f)
+Fetch brands
+![Screenshot 2025-04-09 164858](https://github.com/user-attachments/assets/7a99a26a-9c96-4baa-b521-8551bb070850)
+Add products
+![Screenshot 2025-04-09 165250](https://github.com/user-attachments/assets/8371a860-ae59-428d-9bfc-4548de29452c)
+Update products-description edited
+![Screenshot 2025-04-09 165623](https://github.com/user-attachments/assets/1d10e6bb-70db-4fa9-b064-e3912dcc9d13) 
+Delete product
+![Screenshot 2025-04-09 165812](https://github.com/user-attachments/assets/dc984341-9b80-4bcd-88de-3a39fb1b8bae)
+User Blocking
+![Screenshot 2025-04-09 165946](https://github.com/user-attachments/assets/7f91a714-3637-4bc4-8060-f150cac4d9b7)
+MongoDB-ID of blocked user
+![Screenshot 2025-04-09 170531](https://github.com/user-attachments/assets/7e5c028f-a31f-4418-a446-af85788a0bf6)
+User unblocking
+![Screenshot 2025-04-09 170059](https://github.com/user-attachments/assets/c3f83391-e2f7-4a57-818a-6462f3cc1578)
+View All products
+![Screenshot 2025-04-09 170216](https://github.com/user-attachments/assets/da3bec31-499c-4fe3-97a7-2dab2701bb84)
+![Screenshot 2025-04-09 170204](https://github.com/user-attachments/assets/86c86931-58e7-431d-b45a-7a786e5324fd)
+Filter and sort products
+![Screenshot 2025-04-09 170331](https://github.com/user-attachments/assets/2139dade-d8d6-48fe-97b3-85957bd0f5b8)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
