@@ -77,7 +77,15 @@ Get a list of users blocked by the logged-in user.-get
 
 
 Sample request/response for each API
+
+Register user
 ![Screenshot 2025-04-09 152613](https://github.com/user-attachments/assets/a97434ab-26b8-4ce3-9810-3d40b7f86e77)
+Login User
+![Screenshot 2025-04-09 153623](https://github.com/user-attachments/assets/c2311b99-f324-456c-a960-285df037ddbf)
+Refresh Token
+![Screenshot 2025-04-09 153714](https://github.com/user-attachments/assets/d7258c5d-e2d1-43a2-8863-ef8e1cd65dec)
+
+
 
    
 
