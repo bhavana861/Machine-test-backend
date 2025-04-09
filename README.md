@@ -1,4 +1,4 @@
-![Screenshot 2025-04-09 152613](https://github.com/user-attachments/assets/95c88a15-3a9b-4247-b927-22ad50b17402)🚀 BACKEND DEVELOPER MACHINE TEST
+🚀 BACKEND DEVELOPER MACHINE TEST
 
 This is a Back-end project built using Node.js, Express.js, MongoDB, and Mongoose.
 It handles:
@@ -76,6 +76,8 @@ Get a list of users blocked by the logged-in user.-get
 
 
 
+Sample request/response for each API
+![Screenshot 2025-04-09 152613](https://github.com/user-attachments/assets/a97434ab-26b8-4ce3-9810-3d40b7f86e77)
 
    
 
